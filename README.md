@@ -1,3 +1,5 @@
+***This submission is still pending discussion with Professor Murphy***
+
 Algorithm Analysis
 
 Example in Section 1.4, Participation Activity 1.4.1 
