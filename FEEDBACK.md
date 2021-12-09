@@ -1,5 +1,9 @@
 ## Feedback from Kieran
 
+**Score as of Dec 5, 2021:** 75/75
+
+* Per discussion, full credit.
+
 **Score as of Dec 5, 2021:** 60/75
 
 * We discussed the reason why the project, when pulled from the repository, 
