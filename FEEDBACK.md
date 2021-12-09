@@ -1,5 +1,13 @@
 ## Feedback from Kieran
 
+**Score as of Dec 5, 2021:** 60/75
+
+* We discussed the reason why the project, when pulled from the repository, 
+  does not compile, and that the tests run for you, +20 points
+  
+* The runtimes listed in README.md are still all wrong.  As mentioned previously,
+  the correct runtimes are given in zyBook, so this is still -15 points
+
 **Score as of Nov 20, 2021:** 40/75
 
 * Your code does not compile.  One reason for this is that the package name
